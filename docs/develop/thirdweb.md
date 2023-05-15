@@ -27,7 +27,7 @@ thirdweb is a complete web3 development framework that provides everything you n
 
 To create a new smart contract using thirdweb CLI, follow the step below.
 
-1. In your CLI run the following command:
+1. In your CLI, run the following command to create a contract:
 
    ```
    npx thirdweb create contract
