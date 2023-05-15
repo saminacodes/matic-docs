@@ -42,7 +42,7 @@ To create a new smart contract using thirdweb CLI, follow the step below.
 3. Once created, navigate to your project’s root directory and open your project in your preferred code editor.
 4. If you open the `contracts` folder, you will find your smart contract; the contract you see is your smart contract written in Solidity.
 
-   The following code is for an ERC721Base contract without specified extensions. It implements all of the logic inside the `[ERC721Base.sol](https://github.com/thirdweb-dev/contracts/blob/main/contracts/base/ERC721Base.sol)` contract, which implements the `[ERC721A](https://github.com/thirdweb-dev/contracts/blob/main/contracts/eip/ERC721A.sol)` standard.
+   The following code is for an ERC721Base contract without specified extensions. It implements all of the logic inside the `[ERC721Base.sol](https://github.com/thirdweb-dev/contracts/blob/main/contracts/base/ERC721Base.sol)` contract, which implements the `[ERC721A](https://github.com/thirdweb-dev/contracts/blob/main/contracts/eip/ERC721A.sol)` standard. You can [view the full code](https://github.com/thirdweb-dev/contracts/blob/main/contracts/base/ERC721Base.sol) for this sample contract on thirdweb's GitHub.
 
    ```bash
    // SPDX-License-Identifier: MIT
