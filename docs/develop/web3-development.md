@@ -21,7 +21,7 @@ image: https://wiki.polygon.technology/img/polygon-logo.png
 
 ## Smart Contract & Token Tutorials
 
-- [Deploy a Smart Contract on Polygon](https://blog.thirdweb.com/guides/deploy-a-smart-contract-on-polygon-matic/)
+- [Deploy a Smart Contract on Polygon using thirdweb](https://blog.thirdweb.com/guides/deploy-a-smart-contract-on-polygon-matic/)
 - [Hello World, smart contract tutorial](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)
 - [Deploy a smart contract using REMIX IDE](https://www.quicknode.com/guides/solidity/how-to-deploy-a-smart-contract-on-matic-polygon)
 - [How to create a token (ERC20)](https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc20-token)
